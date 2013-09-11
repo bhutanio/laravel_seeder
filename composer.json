@@ -1,0 +1,17 @@
+{
+    "name": "abixalmon/laravel_seeder",
+    "description": "Generate database seed file for laravel",
+    "keywords": ["laravel","Database Seed"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abi Narayan",
+            "homepage": "http://abi.io"
+        }
+    ],
+	"require": {
+		"jv2222/ezSQL": "dev-master",
+		"twbs/bootstrap": "dev-master"
+	},
+	"minimum-stability": "dev"
+}
