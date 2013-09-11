@@ -3,6 +3,8 @@ Generate database seed file for laravel
 
 Generate database seed file for laravel
 
+![Screenshot](http://i.imgur.com/XYw65oq.png)
+
 ##Requirements
 	Apache or Nginx = Latest production version
 	PHP >= 5.4.0
