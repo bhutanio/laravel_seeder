@@ -100,7 +100,7 @@ $seeds = $db->get_results("SELECT * FROM $dbtable",ARRAY_A);
 /**
  * Seed <?php echo $dbtable ?> table
  */
-class <?php echo ucwords($dbtable); ?>TableSeeder extends Seeder {</p>
+class <?php echo ucwords($dbtable); ?>TableSeeder extends Seeder {
 
 	public function run()
 	{
